@@ -4,7 +4,9 @@
 This repo contains code for our paper: Compressing Audio CNNs usign Graph Centrality based Filter Pruning [1]. 
 
 
+## Pruning_methods.py
 
+Python script to compute important indexes of filters in a given layer using various methods including graph-based centrality methods, cosine-similaity methods, HRank, Energy-aware mehtods. For more detials, please see [1].
 
 
 
